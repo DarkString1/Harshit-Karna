@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Harshit-Karna
+- 👋 Hi, I’m @DarkString
 - 👀 I’m interested in Machine learning and AI
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking for good courses on opencv-python and mediapipe
